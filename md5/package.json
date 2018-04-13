@@ -1,0 +1,5 @@
+{
+	"name": "md5",
+	"compilerVersion": "5.1.9",
+	"typings": "typings/md5.d.ts"
+}
